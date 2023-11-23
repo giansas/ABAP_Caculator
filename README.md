@@ -1,4 +1,4 @@
-# ABAP_Caculator
+# ABAP_Calculator
 Program developed in ABAP to simulate a calculator with all the four operations.
 
 To run this program, you have to access the transaction SE38 and create a new report called 'z_calculator'.
